@@ -5,3 +5,4 @@ The components are:
 3 Servers
 1 Laptop
 
+Added 2 additional pc's afterwards.
